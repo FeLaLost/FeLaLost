@@ -24,7 +24,7 @@
     <img
       alt="School account"
       title="See my school account on GitHub"
-      src="https://custom-icon-badges.demolab.com/badge/-octicon-mark-github-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
+      src="https://custom-icon-badges.demolab.com/badge/-github-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
       style="height: 23px;"
     />
   </a>
