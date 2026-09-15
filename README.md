@@ -11,6 +11,14 @@
     />
   </a>
 
+ <a href="https://github.com/FeLaLost?tab=repositories" style="text-decoration: none;">
+    <img
+      alt="Repositories"
+      title="See my repositories on GitHub"
+      src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
+      style="height: 23px;"
+    />
+  </a>
   
 ---
 
