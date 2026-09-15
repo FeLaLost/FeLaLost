@@ -20,7 +20,8 @@
     />
   </a>
 
-   <a href="https://github.com/etecvav26-1C2-03" style="text-decoration: none;">
+  
+ <a href="https://github.com/etecvav26-1C2-03" style="text-decoration: none;">
     <img
       alt="School account"
       title="See my school account on GitHub"
@@ -29,7 +30,7 @@
     />
   </a>
 
-  
+
 ---
 
 
