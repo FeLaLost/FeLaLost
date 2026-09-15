@@ -2,7 +2,6 @@
 
 **Systems Development | ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
 
-<p align="center">
 <a href="https://instagram.com/ggabrielfernandes_" style="text-decoration: none;">
     <img
       alt="Instagram"
