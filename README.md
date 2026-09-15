@@ -19,6 +19,16 @@
       style="height: 23px;"
     />
   </a>
+
+   <a href="https://github.com/etecvav26-1C2-03" style="text-decoration: none;">
+    <img
+      alt="School account"
+      title="See my school account on GitHub"
+      src="https://custom-icon-badges.demolab.com/badge/-octicon-mark-github-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
+      style="height: 23px;"
+    />
+  </a>
+
   
 ---
 
