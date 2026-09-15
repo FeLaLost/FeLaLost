@@ -20,12 +20,11 @@
     />
   </a>
 
-  
- <a href="https://github.com/etecvav26-1C2-03" style="text-decoration: none;">
+ <a href="https://github.com/FeLaLost?tab=repositories" style="text-decoration: none;">
     <img
       alt="School account"
-      title="See my school account on GitHub"
-      src="https://custom-icon-badges.demolab.com/badge/-School-account-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
+      title="See my School account on GitHub"
+      src="[https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)"
       style="height: 23px;"
     />
   </a>
