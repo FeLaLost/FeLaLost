@@ -36,7 +36,7 @@
     <img
       alt="School account"
       title="See my School account on GitHub"
-      src="https://custom-icon-badges.demolab.com/badge/-Github-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
+      src="https://custom-icon-badges.demolab.com/badge/-Account-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
       style="height: 23px;"
     />
   </a>
@@ -51,7 +51,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white)
 
