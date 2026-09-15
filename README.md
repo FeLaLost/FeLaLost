@@ -32,8 +32,7 @@
 
 ## Sobre mim
 
-- No primeiro ano do curso técnico de Desenvolvimento de Sistemas.
-- Inglês: B1-B2 (Intermediário)
-
+- In the first year of the Systems Development technical course.
+- English: B1-B2 (Intermediate)
 
 ---
