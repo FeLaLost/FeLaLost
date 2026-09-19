@@ -76,6 +76,6 @@
 ## About me:
 
 - In the first year of the Systems Development technical course.
-- English: B1-B2 (Intermediate)
+- English: C1-C2 (advanced)
 
 ---
