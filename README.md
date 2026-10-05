@@ -62,13 +62,11 @@
 ---
 
 
-## Repositories / Projects:
+## Projects:
 
 | Project | Description | languages |
 |----|--|-|
-| [Portfolio PA (Programming and algorithms)](https://github.com/etecvav26-1C2-03/portfolio-pa) | Repository containing programs in various languages  | C++ and Python |
-| [Portfolio PW (Web programming)](https://github.com/etecvav26-1C2-03/portfolio-pw) | Repository containing sites | HTML5 and CSS3 and JAVASCRIPT |
-| [Portfolio BD (Database)](https://github.com/etecvav26-1C2-03/portifolio-bd) | Repository containing database exercices | SQL |
+| [Portfolio PW (Web programming)](https://github.com/etecvav26-1C2-03/portfolio-pw) | Repository containing sites | HTML5, CSS3 and JAVASCRIPT |
 
 
 ---
