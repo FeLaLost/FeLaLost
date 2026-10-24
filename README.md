@@ -1,4 +1,4 @@
-# Gabriel Fernandes Barbarini
+# Gabriel Fernandes Barbarini &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![Portfolio](https://img.shields.io/badge/Portfolio-4169E1?style=for-the-badge)]([https://github.com/FeLaLost/portifolio])
 
 **Systems Development | ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
 
